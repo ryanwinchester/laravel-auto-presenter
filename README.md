@@ -1,11 +1,9 @@
 Laravel Auto Presenter 4
 ========================
 
-[![StyleCI Status](https://styleci.io/repos/12034701/shield)](https://styleci.io/repos/12034701)
-[![Build Status](https://img.shields.io/travis/laravel-auto-presenter/laravel-auto-presenter/master.svg?style=flat-square)](https://travis-ci.org/laravel-auto-presenter/laravel-auto-presenter)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Total Downloads](https://img.shields.io/packagist/dt/mccool/laravel-auto-presenter.svg?style=flat-square)](https://packagist.org/packages/mccool/laravel-auto-presenter)
-[![Latest Version](https://img.shields.io/github/release/laravel-auto-presenter/laravel-auto-presenter.svg?style=flat-square)](https://github.com/laravel-auto-presenter/laravel-auto-presenter/releases)
+[![Total Downloads](https://img.shields.io/packagist/dt/ryanwinchester/laravel-auto-presenter.svg?style=flat-square)](https://packagist.org/packages/ryanwinchester/laravel-auto-presenter)
+[![Latest Version](https://img.shields.io/packagist/v/ryanwinchester/laravel-auto-presenter.svg?style=flat-square)](https://packagist.org/ryanwinchester/laravel-auto-presenter)
 
 This package automatically decorates objects bound to views during the view render process.
 
@@ -24,7 +22,7 @@ Either [PHP](https://php.net) 5.5+ or [HHVM](http://hhvm.com) 3.6+ are required.
 To get the latest version of Laravel Auto Presenter, simply require the project using [Composer](https://getcomposer.org):
 
 ```bash
-$ composer require mccool/laravel-auto-presenter
+$ composer require ryanwinchester/laravel-auto-presenter
 ```
 
 Instead, you may of course manually update your require block and run `composer update` if you so choose:
@@ -32,7 +30,7 @@ Instead, you may of course manually update your require block and run `composer 
 ```json
 {
     "require": {
-        "mccool/laravel-auto-presenter": "^4.0"
+        "ryanwinchester/laravel-auto-presenter": "^4.0"
     }
 }
 ```
