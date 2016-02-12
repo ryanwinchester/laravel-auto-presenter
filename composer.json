@@ -1,7 +1,7 @@
 {
-    "name": "mccool/laravel-auto-presenter",
+    "name": "ryanwinchester/laravel-auto-presenter",
     "description": "A system for auto-decorating models with presenter objects.",
-    "keywords": ["lpm", "laravel", "eloquent", "presenter"],
+    "keywords": ["laravel", "eloquent", "presenter"],
     "license": "MIT",
     "authors": [
         {
@@ -11,6 +11,10 @@
         {
             "name": "Graham Campbell",
             "email": "graham@alt-three.com"
+        },
+        {
+            "name": "Ryan Winchester",
+            "email": "fungku@gmail.com"
         }
     ],
     "require": {
